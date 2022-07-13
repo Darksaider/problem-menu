@@ -37,7 +37,7 @@ $activeColor: #00A4E5;
 .fullscreen {
 
 	min-height: 100vh;
-	background: url(/img/bg.jpg);
+	background: url("img/bg.jpg");
 	background-position: center;
 	background-size: cover;
 
@@ -311,7 +311,7 @@ header {
 	position: relative;
 	bottom: -1px;
 	padding: 120px 0px 230px 0px;
-	background: url('/img/bg.png') no-repeat;
+	background: url('img/bg.png') no-repeat;
 	background-size: cover;
 	background-position: bottom;
 
